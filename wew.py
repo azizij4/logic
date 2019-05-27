@@ -8,7 +8,7 @@ while star == True:
 
     #               YES         or        No                  
 
-                  ''')
+#                  ''')
     decision=str(input(":..."))
     while decision!=int:
         if decision == 'yes':
