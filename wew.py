@@ -3,10 +3,10 @@ while star == True:
     print('''
                   STUDENT REGISTRATION FORM
     ''')
-    print('''
-                 Are you already registered??? 
+   # print('''
+    #             Are you already registered??? 
 
-                   YES         or        No                  
+    #               YES         or        No                  
 
                   ''')
     decision=str(input(":..."))
